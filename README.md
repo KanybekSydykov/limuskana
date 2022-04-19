@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @limuskana
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning front end libraries
+- 🌱 I’m currently working as front end developer
 - 💞️ I’m looking to collaborate on anything that can teach me and make me better as developer
 - 📫 How to reach me sydykovk.e@gmail.com
 
